@@ -1,0 +1,9 @@
+main.c:83:9:ToChar	16	static
+main.c:94:9:FromChar	16	static
+main.c:106:6:HAL_CAN_RxFifo0MsgPendingCallback	48	static
+main.c:211:5:main	32	static
+main.c:318:6:SystemClock_Config	112	static
+main.c:371:13:MX_GPIO_Init	48	static
+main.c:394:7:MX_CAN_Init_250	48	static
+main.c:445:7:MX_CAN_Init_500	48	static
+main.c:502:6:Error_Handler	8	static,ignoring_inline_asm
